@@ -1,0 +1,32 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.title-div{
+    text-align: center;
+    background-color: #D3D3D3;
+}
+article{
+    padding: 30px 0;
+}
+h1,h4,li{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+article h1{
+    font-size: 37px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.item{
+    border: 1px solid #D3D3D3;
+    padding: 0 45px;
+    margin-bottom: 25px;
+}
